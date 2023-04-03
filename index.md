@@ -1,20 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrea Ciceu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrea Ciceu
+Junior FrontEnd Developer
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<div id="contactInfo">
+<a href="andrea.ciceu.96@gmail.com">andrea.ciceu.96@gmail.com</a>
+<a href="http://en.wikipedia.org/wiki/Isaac_Newton">+40 732 403 658</a>
 </div>
 
 
-## Currently
+## Social
 
-Standing on the shoulders of giants
-
+<a href="https://github.com/andreaCiceu"><img src="https://camo.githubusercontent.com/8169bebae21ffdd0fa084b3afd57f79d2bbcf93a0cf5ffa5f6422679b0d70476/68747470733a2f2f6c6f676f2e636c6561726269742e636f6d2f6769746875622e636f6d3f73697a653d3330" alt="Github" data-canonical-src="https://logo.clearbit.com/github.com?size=30" style="max-width: 100%;"></a>
 ### Specialized in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
