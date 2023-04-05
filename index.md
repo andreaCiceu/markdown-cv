@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Andrea Ciceu's CV
 ---
 
