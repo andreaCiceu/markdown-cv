@@ -73,9 +73,3 @@ Interests: software development, web design, arts, reading (fantasy especially),
 ---
 
 [View Original](https://github.com/andreaCiceu/markdown-cv/blob/master/index.md) 
-
-
-Wish you a great day,
-
-Andrea
-
