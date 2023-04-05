@@ -2,7 +2,9 @@
 layout: cv
 title: Andrea Ciceu's CV
 ---
-## Bio
+
+
+# Bio
 **Andrea Ciceu**;  _Cluj-Napoca, Cluj, Romania_
 - Junior FrontEnd Developer
 - **Romanian** (Native), **English** (Proeficient), **Norwegian** (Elementary)
