@@ -18,7 +18,7 @@ title: Andrea Ciceu's CV
 **Links**
 [![Github](https://logo.clearbit.com/github.com?size=30)](https://github.com/andreaCiceu) [![LinkedIN](https://logo.clearbit.com/linkedin.com?size=30)](https://www.linkedin.com/in/andrea-ciceu-5980b7172/)
 
-### Studies
+## Studies
 
 - _2019 - 2021_: UBB Cluj - Master - College of Political, Administrative and Communication Sciences;
 - _2015 - 2018_:  UBB Cluj - Faculty of Letterst - Norwegian and English (Language and Culture)
