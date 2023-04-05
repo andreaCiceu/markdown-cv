@@ -1,4 +1,4 @@
-# Bio
+## Bio
 **Andrea Ciceu**;  _Cluj-Napoca, Cluj, Romania_
 - Junior FrontEnd Developer
 - **Romanian** (Native), **English** (Proeficient), **Norwegian** (Elementary)
@@ -72,7 +72,7 @@ Interests: software development, web design, arts, reading (fantasy especially),
 
 ---
 
-[View Original](https://github.com/andreaCiceu/markdown-cv/blob/master/index.md) 
+[View Original](https://github.com/andreaCiceu/markdown-cv/blob/gh-pages/index.md) 
 
 Have a great day! 
 
