@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Andrea Ciceu's CV
 ---
 
@@ -49,8 +48,7 @@ title: Andrea Ciceu's CV
     - Additions/ideas that helped improve the user experience throughout the app (based on user reviews & my own testing). 
     
 - _09.2018 - 09.2022_ - Marketing Specialist
-    - Managed social media presence and created relevant and engaging content. Built, tested, optimized and
-executed ads. Improved the product's visibility via SEO and ASO.
+    - Managed social media presence and created relevant and engaging content. Built, tested, optimized and executed ads. Improved the product's visibility via SEO and ASO.
     - Increased the number and income from paid subscriptions by over 60% in the last three years.
     - Market research & analysis (audience, campaigns, industry trends, competitors etc.)
     - Managed communication with clients and strategic partners, improved the communication process via ChatBot implementation and additions.
