@@ -5,17 +5,20 @@ title: Andrea Ciceu's CV
 
 
 # Bio
+
 **Andrea Ciceu**;  _Cluj-Napoca, Cluj, Romania_
 - Junior FrontEnd Developer
 - **Romanian** (Native), **English** (Proeficient), **Norwegian** (Elementary)
 
 
 ## Contact Info & Social
+
 **Email & Phone**
 - [+40 732 403 658](phone:+40 732 403 658)
 - [andrea.ciceu.96@gmail.com](mailto:andrea.ciceu.96@gmail.com)
 
 **Links**
+
 [![Github](https://logo.clearbit.com/github.com?size=30)](https://github.com/andreaCiceu) [![LinkedIN](https://logo.clearbit.com/linkedin.com?size=30)](https://www.linkedin.com/in/andrea-ciceu-5980b7172/)
 
 ## Studies
@@ -32,9 +35,10 @@ title: Andrea Ciceu's CV
 - Other Departments: Digital Marketing, Management, Client management, Cusotmer Service;
 - Soft Skills: Effective Communication, Team player, Eager to learn and help others, I can understand & do various/different jobs, Dedicated to my work;
 
-# Experience
+## Experience
 
-## SC SOFT ATAC SRL - SoferOnline
+**SC SOFT ATAC SRL - SoferOnline**
+
 - [Web](https://soferonline.ro/) and mobile ([Android](https://www.google.com/search?client=safari&rls=en&q=soferonline+play+store&ie=UTF-8&oe=UTF-8), [iOS](https://apps.apple.com/ro/app/soferonline-chestionare-auto/id1032823451)) e-learning app for drivers licence and CRM platform for driving schools.
 - _09.2022_ - On Going - Junior FrontEnd Developer 
     - Main tasks: UI & UX - creating landing pages, implementing sales campaigns, other adds on.
