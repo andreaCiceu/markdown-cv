@@ -2,8 +2,9 @@
 title: Andrea Ciceu's CV
 ---
 
+# Curriculum Vitae
 
-# Bio
+## Bio
 
 **Andrea Ciceu**;  _Cluj-Napoca, Cluj, Romania_
 - Junior FrontEnd Developer
