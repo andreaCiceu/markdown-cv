@@ -1,8 +1,8 @@
 ---
+layout: cv
 title: Andrea Ciceu's CV
 ---
 
-# Curriculum Vitae
 
 ## Bio
 
