@@ -1,4 +1,5 @@
 ---
+layout: cv
 title: Andrea Ciceu's CV
 ---
 
@@ -58,7 +59,8 @@ title: Andrea Ciceu's CV
 
 ## Personal Projects
 
-**Ține Minte** (_11.2022_ - On Going): https://tine-minte.softatac.com/ 
+**Ține Minte** (_11.2022_ - On Going):
+[View Project](https://tine-minte.softatac.com/) 
 
 A method to organize your notes and projects, be them work related (documents, declarations etc.) or personal events (a birthday, a trip etc.)
 You can create, read, update an delete your notes and set a due date for them.
@@ -69,7 +71,8 @@ Work in progress and next steps for the app:
 
 The Front-End part of the app was my main task, I used technologies like: Next.js, TypeScript and Tailwind. 
 
-**Music Quiz** (_08.2022_): https://quiz-gamma-azure.vercel.app/
+**Music Quiz** (_08.2022_):
+[View Project](https://quiz-gamma-azure.vercel.app/ )
 
 Interesting quizzes about music. It is an application that I use frequently together with my friends, to have fun and test our knowledge in the field of music. 
 A project with the purpose to practice React.js
