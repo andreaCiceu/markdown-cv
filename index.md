@@ -72,7 +72,7 @@ Interests: software development, web design, arts, reading (fantasy especially),
 
 ---
 
-[View Live](https://andreaciceu.github.io/markdown-cv/) 
+[View Original](https://github.com/andreaCiceu/markdown-cv/blob/master/index.md) 
 
 Have a great day! 
 
