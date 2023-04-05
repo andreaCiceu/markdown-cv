@@ -72,4 +72,4 @@ Interests: software development, web design, arts, reading (fantasy especially),
 
 ---
 
-[View Original](https://github.com/andreaCiceu/markdown-cv/blob/master/index.md) 
+[View Live](https://andreaciceu.github.io/markdown-cv/) 
